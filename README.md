@@ -56,7 +56,11 @@ The conceptual framing for Industry 5.0 is informed by the European Commission's
 - synthetic validation scenarios
 - CSV and JSON export
 - HTML/PDF reporting
-- Streamlit dashboard
+- Streamlit dashboard with a single grouped navigation and interactive score visualisations
+
+The dashboard presents maturity by dimension and pillar, prioritises capability gaps, and
+compares current and simulated dimension scores. These visualisations are descriptive
+decision-support tools and do not imply causal or forecasted business outcomes.
 
 ## Architecture
 
