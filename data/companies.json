@@ -1,0 +1,55 @@
+{
+  "synthetic_smes": [
+    {
+      "name": "Traditional Engineering Components SME",
+      "type": "Synthetic validation scenario",
+      "industry": "Machinery & Components",
+      "size": "50-100 employees",
+      "description": "Low digital maturity with manual processes and limited cloud use.",
+      "expected_profile": "mostly Level 1-2",
+      "scores": {
+        "D1_1": 1, "D1_2": 2, "D1_3": 1, "D1_4": 1,
+        "D2_1": 2, "D2_2": 2, "D2_3": 1, "D2_4": 1,
+        "D3_1": 1, "D3_2": 2, "D3_3": 2, "D3_4": 1, "D3_5": 1,
+        "D4_1": 2, "D4_2": 1, "D4_3": 1, "D4_4": 2, "D4_5": 1,
+        "D5_1": 1, "D5_2": 2, "D5_3": 2, "D5_4": 2, "D5_5": 1, "D5_6": 1, "D5_7": 1, "D5_8": 1,
+        "D6_1": 1, "D6_2": 1, "D6_3": 1, "D6_4": 1,
+        "D7_1": 1, "D7_2": 2, "D7_3": 1, "D7_4": 1, "D7_5": 1, "D7_6": 1, "D7_7": 1, "D7_8": 2
+      }
+    },
+    {
+      "name": "Digitally Transitioning Automotive Supplier SME",
+      "type": "Synthetic validation scenario",
+      "industry": "Automotive Components",
+      "size": "150-300 employees",
+      "description": "ERP, selective IoT, moderate automation, and gradual training adoption.",
+      "expected_profile": "mostly Level 2-3",
+      "scores": {
+        "D1_1": 3, "D1_2": 3, "D1_3": 2, "D1_4": 3,
+        "D2_1": 3, "D2_2": 3, "D2_3": 2, "D2_4": 3,
+        "D3_1": 3, "D3_2": 3, "D3_3": 3, "D3_4": 2, "D3_5": 2,
+        "D4_1": 3, "D4_2": 3, "D4_3": 2, "D4_4": 3, "D4_5": 2,
+        "D5_1": 2, "D5_2": 4, "D5_3": 3, "D5_4": 3, "D5_5": 2, "D5_6": 2, "D5_7": 2, "D5_8": 1,
+        "D6_1": 2, "D6_2": 2, "D6_3": 1, "D6_4": 2,
+        "D7_1": 3, "D7_2": 3, "D7_3": 3, "D7_4": 2, "D7_5": 2, "D7_6": 2, "D7_7": 2, "D7_8": 3
+      }
+    },
+    {
+      "name": "Advanced Smart Manufacturing SME",
+      "type": "Synthetic validation scenario",
+      "industry": "Electronics & Smart Systems",
+      "size": "300+ employees",
+      "description": "Integrated ERP/MES, analytics, cobots, strong cybersecurity, and sustainability monitoring.",
+      "expected_profile": "mostly Level 3-4",
+      "scores": {
+        "D1_1": 4, "D1_2": 4, "D1_3": 4, "D1_4": 4,
+        "D2_1": 4, "D2_2": 4, "D2_3": 4, "D2_4": 4,
+        "D3_1": 4, "D3_2": 4, "D3_3": 4, "D3_4": 4, "D3_5": 3,
+        "D4_1": 4, "D4_2": 4, "D4_3": 4, "D4_4": 4, "D4_5": 3,
+        "D5_1": 4, "D5_2": 5, "D5_3": 4, "D5_4": 4, "D5_5": 4, "D5_6": 3, "D5_7": 4, "D5_8": 3,
+        "D6_1": 3, "D6_2": 3, "D6_3": 2, "D6_4": 4,
+        "D7_1": 4, "D7_2": 4, "D7_3": 4, "D7_4": 4, "D7_5": 4, "D7_6": 3, "D7_7": 3, "D7_8": 4
+      }
+    }
+  ]
+}

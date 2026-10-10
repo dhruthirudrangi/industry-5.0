@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "construct": "Digital Skills",
+      "problem": "Digital skills are insufficiently embedded across roles.",
+      "why_it_matters": "A manufacturing SME's transformation depends on people being able to use and improve connected systems.",
+      "suggested_action": "Create a structured digital skills programme.",
+      "first_step": "Map required digital skills by role and identify critical capability gaps.",
+      "kpi": "Percentage of relevant employees completing training modules.",
+      "timeframe": "0-3 months",
+      "responsible_role": "HR + production lead",
+      "required_resources": "Training budget, line managers, learning plan",
+      "related_pillar": "Human-Centered Design"
+    },
+    {
+      "construct": "Real-Time Production Monitoring & Control",
+      "problem": "Production data is not consistently monitored in real time.",
+      "why_it_matters": "Without live monitoring, issues are detected too late and improvements are harder to sustain.",
+      "suggested_action": "Pilot real-time monitoring on one production line.",
+      "first_step": "Select a critical process, define KPIs, and implement dashboards and alerts.",
+      "kpi": "Percentage of critical process parameters monitored in real time.",
+      "timeframe": "3-6 months",
+      "responsible_role": "Operations Manager",
+      "required_resources": "Sensors, dashboards, training, line support",
+      "related_pillar": "Resilience"
+    },
+    {
+      "construct": "Industrial Cybersecurity",
+      "problem": "Industrial cybersecurity practices are incomplete or fragmented.",
+      "why_it_matters": "Connected production environments need baseline controls to protect people, data, and continuity.",
+      "suggested_action": "Implement an industrial cybersecurity baseline covering identity, access control, network segmentation, patching, backups, and response plans.",
+      "first_step": "Assess current exposure and define a minimum baseline for shop-floor systems.",
+      "kpi": "Percentage of critical assets covered by formal cybersecurity controls.",
+      "timeframe": "0-6 months",
+      "responsible_role": "IT / Cybersecurity Lead",
+      "required_resources": "Security assessment, access controls, segmentation plan, backups",
+      "related_pillar": "Resilience"
+    }
+  ]
+}
